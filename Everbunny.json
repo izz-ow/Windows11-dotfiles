@@ -1,0 +1,273 @@
+{
+    "name": "Everforest Dark Medium",
+    "description": "A comfortable green theme for programmers, bringing the calm of the forest to your desktop.",
+    "authors": [
+        {
+            "name": "Moodle",
+            "id": "807170846497570848"
+        }
+    ],
+    "semanticColors": {
+        "ANDROID_RIPPLE": [
+            "#475258"
+        ],
+        "CHAT_BACKGROUND": [
+            "#2D353B"
+        ],
+        "HEADER_PRIMARY": [
+            "#D3C6AA"
+        ],
+        "HEADER_SECONDARY": [
+            "#D3C6AA"
+        ],
+        "TEXT_NORMAL": [
+            "#D3C6AA"
+        ],
+        "TEXT_MUTED": [
+            "#859289"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#A7C080"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#475258"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#D3C6AA"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#859289"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#232A2E"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#2D353B"
+        ],
+        "BG_BASE_PRIMARY": [
+            "#2D353B"
+        ],
+        "BG_BACKDROP": [
+            "#000000b2"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#232A2E"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#2D353B"
+        ],
+        "BG_BASE_SECONDARY": [
+            "#232A2E"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#2D353B"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#343F44"
+        ],
+        "BG_BASE_TERTIARY": [
+            "#2D353B"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#343F44"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#232A2E"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#2D353B"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#232A2E"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#475258"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#475258"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#2D353B"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#4F585E"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#343F44"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#DBBC7F17"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#343F44"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#343F44"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": [
+            "#3D484D"
+        ],
+        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+            "#D3C6AA"
+        ],
+        "REDESIGN_CHANNEL_NAME_TEXT": [
+            "#D3C6AA"
+        ],
+        "REDESIGN_CHAT_INPUT_BACKGROUND": [
+            "#343F44"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+            "#343F44"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#7A8478"
+        ],
+        "CHANNEL_ICON": [
+            "#859289"
+        ],
+        "TEXT_PRIMARY": [
+            "#D3C6AA"
+        ],
+        "TEXT_LINK": [
+            "#7FBBB3"
+        ],
+        "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+            "#3A515D"
+        ],
+        "THREAD_CHANNEL_SPINE": [
+            "#7A8478"
+        ]
+    },
+    "rawColors": {
+        "BLACK": "#2D353B",
+        "PRIMARY_100": "#D3C6AA",
+        "PRIMARY_200": "#D3C6AA",
+        "PRIMARY_300": "#E69875",
+        "PRIMARY_330": "#D3C6AA",
+        "PRIMARY_360": "#7A8478",
+        "PRIMARY_400": "#E69875",
+        "PRIMARY_460": "#343F44",
+        "PRIMARY_500": "#A7C080",
+        "PRIMARY_530": "#E67E80",
+        "PRIMARY_600": "#343F44",
+        "PRIMARY_630": "#343F44",
+        "PRIMARY_645": "#3A515D50",
+        "PRIMARY_660": "#343F44",
+        "PRIMARY_700": "#343F44",
+        "PRIMARY_800": "#232A2E",
+        "PLUM_24": "#2D353B",
+        "PLUM_10": "#859289",
+        "PLUM_15": "#7A8478",
+        "PLUM_16": "#343F44",
+        "PLUM_17": "#232A2E",
+        "PLUM_18": "#343F44",
+        "PLUM_19": "#232A2E",
+        "PLUM_20": "#232A2E",
+        "PLUM_3": "#D3C6AA",
+        "PLUM_4": "#3A515D50",
+        "PLUM_6": "#A7C080",
+        "BRAND_260": "#7FBBB3",
+        "BRAND_360": "#3A515D",
+        "BRAND_500": "#3A515D",
+        "BRAND_560": "#3A515D",
+        "BLUE_345": "#7FBBB3",
+        "GREEN_100": "#7FBBB3",
+        "GREEN_130": "#7FBBB3",
+        "GREEN_160": "#7FBBB3",
+        "GREEN_200": "#7FBBB3",
+        "GREEN_230": "#7FBBB3",
+        "GREEN_260": "#7FBBB3",
+        "GREEN_300": "#7FBBB3",
+        "GREEN_330": "#7FBBB3",
+        "GREEN_345": "#7FBBB3",
+        "GREEN_360": "#7FBBB3",
+        "GREEN_400": "#7FBBB3",
+        "GREEN_430": "#3A515D",
+        "GREEN_460": "#7FBBB3",
+        "GREEN_500": "#7FBBB3",
+        "GREEN_530": "#7FBBB3",
+        "GREEN_560": "#7FBBB3",
+        "GREEN_600": "#7FBBB3",
+        "GREEN_630": "#7FBBB3",
+        "GREEN_660": "#7FBBB3",
+        "GREEN_700": "#7FBBB3",
+        "GREEN_730": "#7FBBB3",
+        "GREEN_760": "#7FBBB3",
+        "GREEN_800": "#7FBBB3",
+        "GREEN_830": "#7FBBB3",
+        "GREEN_860": "#7FBBB3",
+        "GREEN_900": "#7FBBB3",
+        "GUILD_BOOSTING_PINK": "#D699B6",
+        "GUILD_BOOSTING_PURPLE": "#D699B6",
+        "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#D699B6",
+        "RED_260": "#E67E80",
+        "RED_300": "#E67E80",
+        "RED_330": "#E67E80",
+        "RED_345": "#E67E80",
+        "RED_360": "#E67E80",
+        "RED_400": "#E67E80",
+        "RED_430": "#E67E80",
+        "RED_460": "#E67E80",
+        "RED_500": "#E67E80",
+        "RED_530": "#E67E80",
+        "RED_560": "#E67E80",
+        "RED_600": "#E67E80",
+        "RED_630": "#E67E80",
+        "RED_660": "#E67E80",
+        "RED_700": "#E67E80",
+        "YELLOW_100": "#DBBC7F",
+        "YELLOW_130": "#DBBC7F",
+        "YELLOW_160": "#DBBC7F",
+        "YELLOW_200": "#DBBC7F",
+        "YELLOW_230": "#DBBC7F",
+        "YELLOW_260": "#DBBC7F",
+        "YELLOW_300": "#DBBC7F",
+        "YELLOW_330": "#DBBC7F",
+        "YELLOW_345": "#DBBC7F",
+        "YELLOW_360": "#DBBC7F",
+        "YELLOW_400": "#DBBC7F",
+        "YELLOW_430": "#DBBC7F",
+        "YELLOW_460": "#DBBC7F",
+        "YELLOW_500": "#DBBC7F",
+        "YELLOW_530": "#DBBC7F",
+        "YELLOW_560": "#DBBC7F",
+        "YELLOW_600": "#DBBC7F",
+        "YELLOW_630": "#DBBC7F",
+        "YELLOW_660": "#DBBC7F",
+        "YELLOW_700": "#DBBC7F",
+        "YELLOW_730": "#DBBC7F",
+        "YELLOW_760": "#DBBC7F",
+        "YELLOW_800": "#DBBC7F",
+        "YELLOW_830": "#DBBC7F",
+        "YELLOW_860": "#DBBC7F",
+        "YELLOW_900": "#DBBC7F",
+        "WHITE": "#D3C6AA",
+        "WHITE_500": "#D3C6AA",
+        "WHITE_630": "#7A8478"
+    },
+    "background": {
+        "alpha": 5,
+        "url": "https://github.com/kuisux/kuisux.github.io/blob/main/startpage-Cat/src/bgs/topography.png?raw=true"
+    },
+    "plus": {
+        "version": "0",
+        "customOverlays": true,
+        "mentionLineColor": "#DBBC7F",
+        "icons": {
+            "ic_radio_circle_checked": "#3A515D",
+            "ic_radio_circle_checked__overlay": "#D3C6AA",
+            "ic_radio_square_24px": "#3A515D",
+            "ic_radio_square_checked_24px": "#3A515D",
+            "ic_radio_square_checked_24px__overlay": "#D3C6AA",
+            "ic_selection_checked_24px": "#3A515D",
+            "ic_selection_checked_24px__overlay": "#D3C6AA",
+            "StatusMobileOnline": "#A7C080",
+            "StatusIdle": "#DBBC7F",
+            "StatusDND": "#E67E80",
+            "StatusOffline": "#859289",
+            "StatusOnline": "#A7C080",
+            "StatusStreaming": "#D699B6"
+        }
+    },
+    "spec": 2
+}
